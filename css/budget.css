@@ -21,7 +21,7 @@ footer {
     width: 100%;
     text-align: center;
     padding: 10px;
-    background-color: #f0f0f0;
+    background-color: #000000;
 }
 
 body {
@@ -43,7 +43,7 @@ body {
 
 .top {
     height: 40vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(back.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(../images//back.png);
     background-size: cover;
     background-position: center;
     position: relative;
